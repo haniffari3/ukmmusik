@@ -8,6 +8,8 @@ import 'screens/detail_screen.dart';
 import 'models/song.dart';
 import 'screens/profile_screen.dart';
 
+//test
+
 void main() => runApp(const MusikuApp());
 
 class MusikuApp extends StatelessWidget {
