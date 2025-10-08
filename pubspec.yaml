@@ -11,11 +11,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   provider: ^6.0.5
   google_fonts: ^6.1.0
+  getwidget: ^4.0.0
 
 flutter:
   uses-material-design: true
   assets:
     - lib/assets/images/lologo.png
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
